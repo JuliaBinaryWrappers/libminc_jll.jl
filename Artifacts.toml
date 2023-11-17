@@ -1,0 +1,9 @@
+[[libminc]]
+arch = "x86_64"
+git-tree-sha1 = "79a210ee3e2c8260abe9232aacc894ba53c69863"
+libc = "glibc"
+os = "linux"
+
+    [[libminc.download]]
+    sha256 = "971861d872bd714c318ef3d5274fe52c546d225d0c7929bd72413f6990615e56"
+    url = "https://github.com/JuliaBinaryWrappers/libminc_jll.jl/releases/download/libminc-v2.4.6+0/libminc.v2.4.6.x86_64-linux-gnu.tar.gz"
