@@ -1,9 +1,9 @@
 [[libminc]]
 arch = "x86_64"
-git-tree-sha1 = "79a210ee3e2c8260abe9232aacc894ba53c69863"
+git-tree-sha1 = "c0eb622bdbd922cc827191456aede8145993fb5f"
 libc = "glibc"
 os = "linux"
 
     [[libminc.download]]
-    sha256 = "971861d872bd714c318ef3d5274fe52c546d225d0c7929bd72413f6990615e56"
-    url = "https://github.com/JuliaBinaryWrappers/libminc_jll.jl/releases/download/libminc-v2.4.6+0/libminc.v2.4.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "c142925cf3e9dff3580cfbdebd84fefd8d563cc1cc212c5a38d2a9de4a4b56cf"
+    url = "https://github.com/JuliaBinaryWrappers/libminc_jll.jl/releases/download/libminc-v2.4.7+0/libminc.v2.4.7.x86_64-linux-gnu.tar.gz"
